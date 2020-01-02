@@ -1,4 +1,4 @@
-## Inkling Coding Exercise
+## Challenge
 
 Please implement an autocomplete search UI that filters a list of books as the user types and allows the user to select a particular result to see the full details about that book. The book details UI should have a separate URL that is specific to that book. It should also have some way to easily navigate back to the initial page with the search input. For an example of what the autocomplete search UI might look like, see `./autocomplete-example.gif`.
 
