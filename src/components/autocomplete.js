@@ -33,7 +33,7 @@ const AutoComplete = ({
     clearItem();
   };
   const handleClick = itemId => {
-    setTerm("");
+    // setTerm("");
     setFilteredItems([]);
     selectItem(itemId);
   };
